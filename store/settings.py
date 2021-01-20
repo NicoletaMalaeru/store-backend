@@ -25,7 +25,7 @@ SECRET_KEY = '27-ep!cx!o*-fg=hy6z#(&qqydapgy%^$=r87v=7rm@qhdfc_y'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['kini-backend.herokuapp.com']
 
 
 # Application definition
